@@ -1,0 +1,23 @@
+# Database
+*.db
+
+# Logs
+*.log
+
+# Output
+output/
+
+# Debug files
+debug_*.png
+test_upi*.py
+run_reliance.py
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# IDE
+.vscode/
+.idea/
